@@ -10,9 +10,9 @@
 | [NewVTT–Roo](https://github.com/lizhihome/NewVTT–Roo) |  |  | |
 | [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor) |  |  | |
 | [frontend](https://github.com/lizhihome/frontend) |  |  | |
-| [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) |  |  | |
+| [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) | Upload and download user cases |  | |
 | [innovaker–board](https://github.com/lizhihome/innovaker–board) |  |  | |
-| [lizhihome](https://github.com/lizhihome/lizhihome) |  |  | |
+| [lizhihome](https://github.com/lizhihome/lizhihome) | Display list of projects  |  | |
 | [htdocs](https://github.com/lizhihome/htdocs) |  |  | |
 | [TTS](https://github.com/lizhihome/TTS) |  |  | |
 | [TTS_OOP](https://github.com/lizhihome/TTS_OOP) | Convert .vtt to .mp3 and AI translate to other languages  | ⭐  | |
