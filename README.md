@@ -5,7 +5,7 @@
 | [mysql-testing](https://github.com/lizhihome/mysql-testing/tree/develop) | Test mysql work with frontend/backend/docker | 👷‍♂️ | |
 | [pdf-ocr](https://github.com/lizhihome/pdf-ocr) | Use Gemini API to convert pdf img to text | 👷‍♂️ | |
 | [RAG](https://github.com/lizhihome/RAG/tree/develop) |Build private rag for engineering   | 📌 |  |
-| [nodejs](https://github.com/lizhihome/nodejs/tree/develop) | Convert from NX Copilot | 📌 | |
+| [nodejs](https://github.com/lizhihome/nodejs/tree/develop) | Convert from Copilot | 📌 | |
 | [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/merge-rag) | AI Powered Engineer | 📌 | |
 | [NewVTT–Roo](https://github.com/lizhihome/NewVTT–Roo) |  |  | |
 | [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor) |  |  | |
