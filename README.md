@@ -1,16 +1,27 @@
-## Hi there 👋
+## Project List Table  ⭐❗⚠️📌🗑️ ✅🛠️⚙️👷‍♂️👍👎❌😀🔬👨‍💻
 
-<!--
-**lizhihome/lizhihome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project Name | Description |Class|Mark|
+|--------------|-------------|-------------|-------------|
+| mysql-testing        |Test mysql work with frontend/backend/docker   |👷‍♂️|
+| pdf-ocr      | Use Gemini API to convert pdf img to text |👷‍♂️|
+| RAG                  |             |⭐|
+| nodejs               |Convert from NX Copilot|⭐|
+| cursor02–account     |AI Powered Engineer         |⭐|
+| NewVTT–Roo           |             |
+| NewVTT_Editor        |             |
+| frontend             |             |
+| zhi_cases_management |             |
+| innovaker–board      |             |
+| lizhihome            |             |
+| htdocs               |             |
+| TTS                  |             |
+| TTS_OOP              |             |
+| NX–MW–Help           |             |
+| Testing              |             |
+| ChatGPT–API          |             |
+| NX                   |             |
+| Arduino              |             |
+| esp32                |             |
+| B24/innovaker        |             |
+| B24/raspi–IoT        |             |
+| Raspberry            |             |
