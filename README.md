@@ -7,9 +7,9 @@
 | [RAG](https://github.com/lizhihome/RAG/tree/develop) |Build private rag for engineering   | 📌 |  |
 | [nodejs](https://github.com/lizhihome/nodejs/tree/develop) | Convert from Copilot | 📌 | |
 | [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/merge-rag) | AI Powered Engineer | 📌 | |
-| [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) | Upload and download user cases |  | |
+| [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) | Upload and download user cases | 📌 | |
+| [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor/tree/zhi_AI_hub) | Zhi AI menu: vtt editor / time / word | 👨‍💻 | |
 | [NewVTT–Roo](https://github.com/lizhihome/NewVTT–Roo) |  | ❌ | |
-| [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor) |  | ❌ | |
 | [frontend](https://github.com/lizhihome/frontend) |  |  | |
 | [innovaker–board](https://github.com/lizhihome/innovaker–board) |  |  | |
 | [lizhihome](https://github.com/lizhihome/lizhihome) | Display list of projects  |  | |
