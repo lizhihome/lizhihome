@@ -6,7 +6,7 @@
 | [pdf-ocr](https://github.com/lizhihome/pdf-ocr) | Use Gemini API to convert pdf img to text | 👷‍♂️ | |
 | [RAG](https://github.com/lizhihome/RAG/tree/develop) |Build private rag for engineering   | 📌 |  |
 | [nodejs](https://github.com/lizhihome/nodejs/tree/develop) | Convert from Copilot | 📌 | |
-| [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/merge-rag) | AI Powered Engineer | 📌 | |
+| [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/rag_merge) | AI Powered Engineer main->ts->rag_merge | 📌 | |
 | [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) | Upload and download user cases | 📌 | |
 | [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor/tree/zhi_AI_hub) | Zhi AI menu: traning data / office / vtt editor / time / word.<br>`PC: D:\Apache24\htdocs\GPT\VTT` | 👨‍💻 |  |
 | [NewVTT–Roo](https://github.com/lizhihome/NewVTT–Roo) |  | ❌ | |
