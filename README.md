@@ -8,7 +8,7 @@
 | [nodejs](https://github.com/lizhihome/nodejs/tree/develop) | Convert from Copilot | 📌 | |
 | [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/merge-rag) | AI Powered Engineer | 📌 | |
 | [zhi_cases_management](https://github.com/lizhihome/zhi_cases_management) | Upload and download user cases | 📌 | |
-| [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor/tree/zhi_AI_hub) | Zhi AI menu: vtt editor / time / word | 👨‍💻 | |
+| [NewVTT_Editor](https://github.com/lizhihome/NewVTT_Editor/tree/zhi_AI_hub) | Zhi AI menu: traning data / office / vtt editor / time / word.<br>`PC: D:\Apache24\htdocs\GPT\VTT` | 👨‍💻 |  |
 | [NewVTT–Roo](https://github.com/lizhihome/NewVTT–Roo) |  | ❌ | |
 | [frontend](https://github.com/lizhihome/frontend) |  |  | |
 | [innovaker–board](https://github.com/lizhihome/innovaker–board) |  |  | |
