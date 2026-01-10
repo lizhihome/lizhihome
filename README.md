@@ -6,6 +6,7 @@
 | [embedding server](https://github.com/lizhihome/embedding) | setup embedding server | 👷‍♂️ | |
 | [python examples](https://github.com/lizhihome/Python) | Python examples | 👷‍♂️ | |
 | [mysql-testing](https://github.com/lizhihome/mysql-testing/tree/develop) | Test mysql work with frontend/backend/docker | 👷‍♂️ | |
+| [Obsidian Notes](https://github.com/lizhihome/zhiNotes) | 日记，Obsidian | 👷‍♂️ | |
 | [PDF ocr node js](https://github.com/lizhihome/gemini-ocr)| OCR pdf, extract image to json with text extraction| 📄 | |
 | [pdf-ocr python](https://github.com/lizhihome/pdf-ocr) | Use Gemini API to convert pdf img to text | 👷‍♂️ | |
 | [RAG](https://github.com/lizhihome/RAG/tree/develop) |Build private rag for engineering, <br> move to cursor02 rag_merge   | 📌 |  |
