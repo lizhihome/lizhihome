@@ -3,6 +3,7 @@
 | Project Name | Description | Class | 
 |--------------|-------------|--------|
 | [cursor02-account](https://github.com/lizhihome/cursor02-account/tree/AIEE-pre) | AI Powered Engineer main->ts->rag_docker->AIEE-pre | ⭐ | |
+| [OpenClaw](https://github.com/lizhihome/clawd) | 我的私人助理。Mac Mini上部署| ⭐ | |
 | [embedding server](https://github.com/lizhihome/embedding) | setup embedding server | 👷‍♂️ | |
 | [python examples](https://github.com/lizhihome/Python) | Python examples | 👷‍♂️ | |
 | [mysql-testing](https://github.com/lizhihome/mysql-testing/tree/develop) | Test mysql work with frontend/backend/docker | 👷‍♂️ | |
